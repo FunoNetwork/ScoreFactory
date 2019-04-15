@@ -2,5 +2,10 @@
     "name": "funo-network/score-factory",
     "description": "https://github.com/FunoNetwork/ScoreFactory. Forked from JackMD/ScoreFactory",
     "type": "library",
-    "license": "GPL-3.0-only"
+    "license": "GPL-3.0-only",
+    "autoload": {
+    "psr-0": {
+      "JackMD\\": "src/"
+    }
+  },
 }
