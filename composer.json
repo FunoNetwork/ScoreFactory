@@ -1,0 +1,7 @@
+{
+    "name": "funonetwork/score-factory",
+    "description": "https://github.com/FunoNetwork/ScoreFactory. Forked from JackMD/ScoreFactory",
+    "type": "library",
+    "license": "GPL3.0",
+    "require": {}
+}
